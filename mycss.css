@@ -1,0 +1,15 @@
+#table1  th td{
+    border: solid 1px black;
+    display: -moz-inline-stack;
+}
+#table2 ,th  ,td{
+    border: solid 1px white;
+    
+}
+
+ 
+
+
+td{
+    color: orange;
+}
